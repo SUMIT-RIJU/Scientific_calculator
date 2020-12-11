@@ -9,8 +9,6 @@ import tkinter
 from tkinter import *
 from tkinter import messagebox
 
-
-
 val=""
 A=0
 operato=""
@@ -151,35 +149,6 @@ def result():
      
        
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #for root window
 root=tkinter.Tk()
 root.geometry("250x400+500+500")
